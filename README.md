@@ -1,5 +1,7 @@
 ### Foodfy  - Em Construção
 
+<br>
+
 ![image](https://user-images.githubusercontent.com/55036173/114280561-3b4d2d80-9a10-11eb-8fac-71823bbdf220.png)
 
 <br>
@@ -10,14 +12,13 @@ O Foodfy é uma aplicação web completa de gerenciamento de receitas, desenvolv
 ## Funcionalidades Prontas
 
 - [X] Explore variados tipos de receitas.
+
 <br>
 ## Funcionalidades Pendentes
+
 - [ ] Gerencie receitas, chefs e usuários.
 - [ ] Pesquisar receitas.
 - [ ] Páginas dinâmicas com Nunjucks.
-- [ ] Banco de dados PostgreSQL.
-- [ ] Sistema de login e recuperação de senha.
-- [ ] Área administrativa.
 
 <br>
 
@@ -27,6 +28,7 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 
 - [HTML](https://devdocs.io/html/)
 - [CSS](https://devdocs.io/css/)
-- 
 
 <br>
+
+Feito com 💙 by [Giselle Rosa](https://github.com/gisellenrosa)
