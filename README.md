@@ -1,6 +1,7 @@
 ### Foodfy  - Em Construção
 
-![image](https://user-images.githubusercontent.com/55036173/114280420-7569ff80-9a0f-11eb-8d68-c0def0fd7aee.png)
+![image](https://user-images.githubusercontent.com/55036173/114280561-3b4d2d80-9a10-11eb-8fac-71823bbdf220.png)
+
 <br>
 ## Sobre o Foodfy
 
