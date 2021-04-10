@@ -2,7 +2,8 @@
 
 <br>
 
-![image](https://user-images.githubusercontent.com/55036173/114280561-3b4d2d80-9a10-11eb-8fac-71823bbdf220.png)
+![image](https://user-images.githubusercontent.com/55036173/114280772-51a7b900-9a11-11eb-9453-451c847f86ea.png)
+
 
 
 ## Sobre o Foodfy
